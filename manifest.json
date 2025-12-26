@@ -1,0 +1,22 @@
+
+{
+  "name": "المنار Pro-Frame",
+  "short_name": "AlManar Pro",
+  "description": "تطبيق معالجة صور كلية المنار الجامعية",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1e1b4b",
+  "theme_color": "#1e1b4b",
+  "icons": [
+    {
+      "src": "https://almanar.edu.iq/wp-content/uploads/2021/04/cropped-logo-1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://almanar.edu.iq/wp-content/uploads/2021/04/cropped-logo-1.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
